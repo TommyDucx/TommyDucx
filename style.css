@@ -197,7 +197,8 @@ h3 {
 .status-panel,
 .info-card,
 .project-card,
-.note-panel {
+.note-panel,
+.recognition-panel {
   border: 1px solid var(--line);
   border-radius: 0.5rem;
   background: rgba(255, 255, 255, 0.86);
@@ -292,6 +293,43 @@ h3 {
   gap: 1rem;
 }
 
+.recognition-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(260px, 0.7fr);
+  gap: 1.5rem;
+  padding: 1.3rem;
+}
+
+.recognition-copy p {
+  color: var(--muted);
+}
+
+.achievement-list {
+  display: grid;
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.achievement-list li {
+  border-left: 3px solid var(--cyan);
+  padding-left: 0.85rem;
+  color: var(--text);
+}
+
+.source-link {
+  grid-column: 1 / -1;
+  color: var(--blue);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.source-link:hover,
+.source-link:focus-visible {
+  text-decoration: underline;
+}
+
 .project-card {
   display: grid;
   grid-template-columns: minmax(180px, 0.45fr) minmax(0, 1fr) auto;
@@ -348,7 +386,8 @@ h3 {
   }
 
   .two-column,
-  .note-panel {
+  .note-panel,
+  .recognition-panel {
     grid-template-columns: 1fr;
   }
 
