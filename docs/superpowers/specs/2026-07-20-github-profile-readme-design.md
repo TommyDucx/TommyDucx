@@ -123,7 +123,7 @@ Purpose:
 
 - Include verified public achievements without turning the profile into an award list.
 
-Facts confirmed from the Shenzhen News / Nanshan Education article:
+Facts confirmed from the Shenzhen News / 创新南山 article:
 
 - Recognized as Guangdong Province "Innovation Good Youngster" / 广东省“创新好少年”.
 - In 2019, recognized as "深圳市南山区少年创新院小院士" and "中国少年科学院小院士".
