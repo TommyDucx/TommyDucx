@@ -136,7 +136,7 @@ Facts confirmed from the Shenzhen News / Nanshan Education article:
 README presentation:
 
 - Use a compact recognition section.
-- Link to the public source: `https://www.sznews.com/news/content/2021-06/04/content_24273255.htm`
+- Link to the public source: `https://www.sznews.com/news/content/2021-06/04/content_24272757.htm`
 - Phrase as "reported by" or "publicly reported" where appropriate.
 
 ### 5. GitHub Stats And Tech Stack
