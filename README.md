@@ -66,8 +66,8 @@
 这些结果会被当作学习记录来看待。联邦学习在小数据仿真中准确率较低或波动明显，反而能帮助观察分布式学习的限制和取舍。
 <!-- RESEARCH-RESULTS:END -->
 
-> Repository link will be added here after `MLForTommy` is published on GitHub.  
-> `MLForTommy` 发布到 GitHub 后，这里会补充仓库链接。
+> 🔗 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 (𝐩𝐫𝐢𝐯𝐚𝐭𝐞): [TommyDucx/Machine-Learning](https://github.com/TommyDucx/Machine-Learning)
+> 🔗 仓库（私有）：[TommyDucx/Machine-Learning](https://github.com/TommyDucx/Machine-Learning)
 
 ---
 
